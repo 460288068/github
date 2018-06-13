@@ -2,3 +2,4 @@ hello github
 new function by b
 new function for a
 modified
+new function bt outside
